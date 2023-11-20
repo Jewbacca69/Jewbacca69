@@ -18,6 +18,6 @@ Here are some projects I'm proud of:
 
 You can find me on:
 
-- [LinkedIn]([Link to profile](https://www.linkedin.com/in/vilnisgrinbergs/))
+- [LinkedIn](https://www.linkedin.com/in/vilnisgrinbergs/)
 
 Feel free to explore my repositories and projects below. Thank you for visiting! ✨
