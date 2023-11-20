@@ -12,8 +12,8 @@ I'm a passionate software developer with a keen interest in crafting innovative 
 Here are some projects I'm proud of:
 
 - [CryptoV2](https://github.com/vilnisgrinbergs/CryptoV2): PHP-powered MVC cryptocurrency comparison website for users to evaluate and contrast various cryptocurrencies based on crucial metrics like price, market cap, and volume.
-- [News](https://github.com/vilnisgrinbergs/News): PHP-based news website following the MVC architecture, ensuring organized code structure for a seamless user experience.
-
+- [News](https://github.com/vilnisgrinbergs/News):
+- 
 ## 📫 Connect with Me
 
 You can find me on:
