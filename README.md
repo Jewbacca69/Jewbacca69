@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Vilnis! 👋
 
-<!--
-**vilnisgrinbergs/vilnisgrinbergs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a keen interest in crafting innovative solutions and exploring new technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: PHP, MySQL, HTML, CSS, JavaScript.
+- 🚀 Frameworks: Laravel
+
+## 📚 Featured Repositories
+
+Here are some projects I'm proud of:
+
+- [CryptoV2][(Link to CryptoV2)](https://github.com/vilnisgrinbergs/CryptoV2): PHP-powered MVC cryptocurrency comparison website for users to evaluate and contrast various cryptocurrencies based on crucial metrics like price, market cap, and volume.
+- [News]([Link to News](https://github.com/vilnisgrinbergs/News)): PHP-based news website following the MVC architecture, ensuring organized code structure for seamless user experience.
+
+## 📫 Connect with Me
+
+You can find me on:
+
+- [LinkedIn]([Link to profile](https://www.linkedin.com/in/vilnisgrinbergs/))
+
+Feel free to explore my repositories and projects below. Thank you for visiting! ✨
